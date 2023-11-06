@@ -1,1 +1,1 @@
-# intent-detection
+This is a code to perform intent detection on french language corpus.
