@@ -6,6 +6,6 @@ This is a code to perform intent detection on french language corpus.
 3) First, the program will load the model from hugging face library, it takes a few minutes.
 4) Then, the program will ask to write as input the path to the test_file_name.csv file.
 5) The program will give an output with
-   - the accuracy on this test dataset
-   - the model speed to predict (per sentence)
-   - the False Positive Rate for the "lost luggage" category
+   - The accuracy on this test dataset
+   - The model speed to predict (per sentence)
+   - The False Positive Rate for the "lost luggage" category
