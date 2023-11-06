@@ -12,6 +12,6 @@ This is a code to perform intent detection on french language corpus.
   
 ### The notebooks
 This repository also contains two notebooks with different techniques tried to perform this intent classification, which all come from hugging face library. It contains :
-- fine-tuning models
+- Fine-tuning models
 - Zero-shot Classification 
 - Sentence similarity (Gives the best performances with a **89.33 % test accuracy**)
