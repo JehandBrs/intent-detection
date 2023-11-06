@@ -9,3 +9,9 @@ This is a code to perform intent detection on french language corpus.
    - The accuracy on this test dataset
    - The model speed to predict (per sentence)
    - The False Positive Rate for the "lost luggage" category
+  
+### The notebooks
+This repository also contains two notebooks with different techniques tried to perform this intent classification, which all come from hugging face library. It contains :
+- fine-tuning models
+- Zero-shot Classification 
+- Sentence similarity (Gives the best performances with a **89.3 % test accuracy**)
